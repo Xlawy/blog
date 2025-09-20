@@ -6,8 +6,8 @@ site_description: >- # 项目描述
  123
 
 # 代码仓库信息
-repo_name: Xlawy/xlawy.github.io # 仓库名称
-repo_url: https://github.com/Xlawy/.git # 仓库地址
+repo_name: Xlawy/blog # 仓库名称
+repo_url: https://github.com/Xlawy/blog # 仓库地址
 
 # 版权信息
 copyright: Copyright &copy; 2025 ~ now | 🚀 Jinhan Zhang (Kevin)
