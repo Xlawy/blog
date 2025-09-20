@@ -1,13 +1,13 @@
 # 项目信息
 site_name: Xlawy-Blog # 项目名称
-site_url: https://localhost:8000/ # 我在nginx中使用的是8000端口，如果你使用的是80端口，可以直接写成https://localhost/。
+site_url: https://xlawy.github.io/blog/ # 我在nginx中使用的是8000端口，如果你使用的是80端口，可以直接写成https://localhost/。
 site_author: Jinhan Zhang # 作者
 site_description: >- # 项目描述
- 123
+ Welcome to Xlawy's Blog.
 
 # 代码仓库信息
 repo_name: Xlawy/blog # 仓库名称
-repo_url: https://github.com/Xlawy/blog # 仓库地址
+repo_url: https://github.com/Xlawy/blog.git # 仓库地址
 
 # 版权信息
 copyright: Copyright &copy; 2025 ~ now | 🚀 Jinhan Zhang (Kevin)
