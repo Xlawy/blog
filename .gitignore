@@ -1,3 +1,5 @@
-.ieda/
-.DS_Store
-site/
+/*
+!/docs
+!/mkdocs.yml
+!/.gitignore
+!/.github
