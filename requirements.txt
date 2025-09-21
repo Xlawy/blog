@@ -1,0 +1,5 @@
+mkdocs
+mkdocs-material
+mkdocs-rss-plugin
+mkdocs-material-extensions
+mkdocs-minify-plugin
